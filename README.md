@@ -1,0 +1,2 @@
+# algebragit
+moj prvi projekt
